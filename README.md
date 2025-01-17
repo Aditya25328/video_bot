@@ -8,8 +8,7 @@ This repository contains Python scripts for automating Instagram media handling 
 
 ### Instagram Media Automation
 1. **Video Download**: Automates downloading videos from Instagram using Playwright.
-2. **Video Upload**: Automates uploading videos to Instagram.
-3. **Video Generation**: Uses Gemini AI for creating custom videos with provided inputs.
+2. **Video Generation**: Uses Gemini AI for creating custom videos with provided inputs.
 
 ### AI-Based Multimedia Generation
 1. **Generate Storyline Prompts**: Uses Gemini API to generate realistic, relatable image prompts and audio narrations based on a user-provided topic.
